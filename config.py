@@ -18,3 +18,5 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 BOT_USERNAME = getenv("BOT_USERNAME", "")
 
 OWNER_ID = getenv("OWNER_ID", "")
+
+GIT_TOKEN = getenv("GIT_TOKEN"), "")
